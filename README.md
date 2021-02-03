@@ -1,4 +1,4 @@
-# Easycredit-api
+# Boat-fisicoquimicos-api
 
 FrontEnd made with React.
 
